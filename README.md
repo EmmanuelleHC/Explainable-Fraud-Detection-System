@@ -1,0 +1,1 @@
+This project builds an Explainable AI (XAI) layer for a fraud detection model. A trained XGBoost classifier predicts whether a transaction is fraudulent, SHAP computes the contribution of each feature to the prediction, and a Large Language Model (LLM) generates a human-readable explanation based on the SHAP outputs.
